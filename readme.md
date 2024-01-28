@@ -85,10 +85,61 @@ CDN
 Analyze
 色碼: 標準色、輔助色
 
+![Style Guideline](https://github.com/mentalflowtime2023/Makenote/assets/156912944/da30d352-df2c-43a9-b725-ac4d29ce2fbf)
+
+
 - CIS 主要的視覺形象代表
 ```
-rgba #9CCDE2
+清晰藍
+#9CCDE2
+知性藍
+#3776CA
+青墨藍
+#233C61
+墨筆黑
+#141414
+明亮白
+#FFFFFF
+導覽列-清晰藍
+#BDE3FF
+提示橘
+#FF971D
+按鈕輔助色
+#36BF76
+輔助灰
+#D9D9D9
+配色提醒紅
+#F43535
+配色提醒黃
+#FFB82E
 
 ```
+---------
+
+Copy
+
+- head
+
+title, og:title
+```
+```
+keywords
+```
+```
+description, og:description
+```
+```
+------------
+- body
+Navigation, Footer
+```
+```
+
+Banner
+
+```
+```
+
+
 
 
