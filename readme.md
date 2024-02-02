@@ -59,7 +59,7 @@
 
 ----------------
 
-##Open Graph
+## Open Graph
 ```
 html
 <meta property="og:url"                content="網址">
@@ -71,11 +71,15 @@ html
 ```
 
 CDN
-- Font Awesome-(https://cdnjs.com/libraries/font-awesome)
-- jQuery-(https://cdnjs.com/libraries/jquery)
+
+[Font Awesome](https://cdnjs.com/libraries/font-awesome)
+
+[jQuery](https://cdnjs.com/libraries/jquery)
+
+
 ----------------
 
-##Resource
+## Resource
 - HTML: Open Graph Protocol。
 - CSS: Meyerweb Reset CSS。
 - jQuery: 3.6.4。
